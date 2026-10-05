@@ -90,3 +90,6 @@ cat test3.txt test4.txt > test5.txt— Concatenar archivos.
 clear— Limpiar pantalla.
 whoami— Mostrar usuario actual.
 history— Ver historial de comandos
+
+
+# Bitacora parcial 
