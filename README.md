@@ -92,4 +92,12 @@ whoami— Mostrar usuario actual.
 history— Ver historial de comandos
 
 
-# Bitacora parcial 
+# Bitacora parcial 2 
+
+## Clase 1
+
+no hicimos nada,
+
+## Clase 2
+
+Aclaramos dudas sobre el aprendizaje de la clase y el profe nos dio un ejemplo de como hacer la llave ssh y nos ayudo a ejecutarlo
