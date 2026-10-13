@@ -101,3 +101,15 @@ no hicimos nada,
 ## Clase 2
 
 Aclaramos dudas sobre el aprendizaje de la clase y el profe nos dio un ejemplo de como hacer la llave ssh y nos ayudo a ejecutarlo
+
+## Clase 3 
+
+Vimos la terminalde bandit y no corria y nos ayudo en explicarnos como subir la tarea
+
+## Clase 4
+
+No llego
+
+## Clase 5
+
+Estamos viendo lo de bandit en la terminacion del juego con ayuda del profe
