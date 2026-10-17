@@ -1,3 +1,7 @@
+# tarea 993
+https://asciinema.org/a/zusX1bBfnorrBzgd
+
+
 📌 Bitácora de Clases
 📅 Clase 1: 20 de Agosto de 2026
 Tema: Navegación en el Sistema de Archivos y Control de Versiones
@@ -113,3 +117,7 @@ No llego
 ## Clase 5
 
 Estamos viendo lo de bandit en la terminacion del juego con ayuda del profe
+
+## clase 6 
+
+
