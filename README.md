@@ -1,5 +1,5 @@
 # tarea 993
-[Evidencia](https://asciinema.org/a/zusX1bBfnorrBzgd)s
+[Evidencia](https://asciinema.org/a/zusX1bBfnorrBzgd)
 
 
 📌 Bitácora de Clases
