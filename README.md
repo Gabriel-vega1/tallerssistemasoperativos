@@ -120,4 +120,26 @@ Estamos viendo lo de bandit en la terminacion del juego con ayuda del profe
 
 ## clase 6 
 
+hicimos tarea 
 
+## clase 7
+
+vimos como utilizar ascinema 
+lo que aprendimos: mkdir demoasciinema, cd demoasciinema, ls -al, vi hola.sh,!#/bin/bash, echo "hola mundo"
+
+## clase 8
+
+el profe esta viendo las repo
+
+# Actividad 993
+
+Hacer un menú en bash que permita elegir la ejecución entre el script para crear un árbol de directorios, el script de hola mundo y el script de saludo usando variables y por último la opción de salir. @tallerso2-2026
+
+En el canal de tallerso-recursos les compartí un video de cómo hacer un menú en bash.
+Subir código a su repositorio de tareas.
+El archivo con el menu debe llamarse menu.sh
+Debes incrustar la grabacion del asciinema en el archivo README.
+Fecha de entrega 16/10/26
+
+Grabar la ejecución del script en asciinema, incrustar la grabación en el Readme de su repositorio.
+https://asciinema.org/a/zusX1bBfnorrBzgd
