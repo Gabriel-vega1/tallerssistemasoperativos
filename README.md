@@ -72,3 +72,10 @@ Grabar la ejecución del script en asciinema, incrustar la grabación en el Read
 
 ## Evidencia: 
 https://asciinema.org/a/zusX1bBfnorrBzgd
+
+## Tareas 978–987
+
+Se agregaron las entregas y materiales de las tareas 978–987 en las carpetas
+correspondientes. El índice, las instrucciones y el estado de cada tarea están
+en [ENTREGAS-978-987.md](ENTREGAS-978-987.md). El menú nuevo `menu.sh` ejecuta
+los 18 scripts originales guardados en `scrips/`.
